@@ -1,0 +1,3 @@
+version:3837
+ao:true
+biomeBlendRadius:2
